@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YE1s7ab/uCPJOUZg6SAnEoR9OOKvEzJrgA0z3IGWdCJxwoQF4m/QvHDyqi9ZPDb57GiDYo6+n8lwnsXxc79Tbg==",
+  "dgSpecHash": "w7wJ9/jH/MCrAxKe2mxpCKlN7yuWIw9+SDtsoAak12sAYn/hzMDR9+QvBqQIg9TNJ2OIZF2R/4tgjMiUHTqang==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RLappc.com\\source\\repos\\DemoTemplates5.0\\DemoTemplates5.0\\PresentationObject.csproj",
+  "projectFilePath": "C:\\Users\\RLappc.com\\Desktop\\%.0\\DemoTemplates5.0\\DemoTemplates5.0\\PresentationObject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RLappc.com\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\RLappc.com\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
